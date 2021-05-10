@@ -1,19 +1,8 @@
-#Christopher Jenney Review of Josh Grant Work
-
-# Summary of Changes: Used an ANOVA analysis rather than KW test. If P < 0.10, I ran a post hoc pairwise
-# t.test with a bonf. adjustment to see which net type was different. Additionally, I was curious to see if 
-# different nets resulted in captures of different sized fishes. 
-# Note*** I did find multiple outliers in the boxplot analysis which appear to be data entry errors.
-
 #Joshua Grant
 #April 2021
 #Electrofishing comparison 
 #joshuagrant@email.arizona.edu
 #Purpose of this study is to compare 3 types of electrofishing methods and the fish composition of each
-
-
-###Josh: I created two different CSV files,  one from the SPP.csv and one from the CPUE.csv. 
-# The SPP.csv file (called ELECTRO.csv) was used for length and weight relationships for bass
 
 
 #load dplyr, ggpubr
